@@ -65,4 +65,4 @@ if w == 1:
 elif w == 0:
     print("Tic-Tac-Toe! YOU LOSE.")
 else:
-    print("DRAW! no one wins.")
+    print("DRAW! no one wins. this program sucks!")
